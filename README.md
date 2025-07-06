@@ -14,6 +14,10 @@
 2. 专家投票池：预设100+细分领域评审模型（含NLP专家/LegalBERT校验器等）
 3. 用户画像适配：根据历史交互数据自动优化评分权重
 
+
+测试DEMO：https://www.coze.cn/s/HHFUv1ziDUc/
+
+
 具体流程图：
 
 
