@@ -15,10 +15,24 @@
 3. 用户画像适配：根据历史交互数据自动优化评分权重
 
 具体流程图：
+
+
 ![2025-06-28_jGvRhJ](https://github.com/user-attachments/assets/1f7f0548-013e-41c8-be81-ce5a5e5c8a88)
+
+
 AI：
+
+
 ![2025-06-28_WTcEEv](https://github.com/user-attachments/assets/aadf4335-6edc-4fa4-9bc8-c714a5b475a0)
+
+
 大致过程：
+
+
 ![2025-06-28_GGdkaR](https://github.com/user-attachments/assets/c5c8a4f2-2040-405d-a3d5-58056f8f520b)
+
+
 Ｅ－Ｒ图：
+
+
 ![2025-06-28_rfNfkC](https://github.com/user-attachments/assets/25aadd37-1ddf-41b4-bd07-03b062363890)
