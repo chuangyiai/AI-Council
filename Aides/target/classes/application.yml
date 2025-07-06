@@ -1,0 +1,11 @@
+# Server配置
+server:
+  port: 8080
+  servlet:
+    context-path: /api
+
+# OpenAI配置
+opennai:
+    ollama:
+        base-url: http://localhost:11434
+        models: deepseek,qwen,doubao
